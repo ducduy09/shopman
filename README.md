@@ -1,6 +1,6 @@
 # shopman
 
-A new Flutter project.
+Connecting to firebase and push notification.
 
 ## Getting Started
 
